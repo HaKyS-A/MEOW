@@ -1,0 +1,33 @@
+[
+    [
+        "Alice",
+        "Bob",
+        "Carol",
+        "Daniel"
+    ],
+    [
+        "Alice",
+        "汉堡包",
+        "agents/logs/Alice_qianfan_chinese_0.log",
+        1
+    ],
+    [
+        "Bob",
+        "比萨饼",
+        "agents/logs/Bob_qianfan_chinese_0.log",
+        0
+    ],
+    [
+        "Carol",
+        "比萨饼",
+        "agents/logs/Carol_qianfan_chinese_0.log",
+        0
+    ],
+    [
+        "Daniel",
+        "比萨饼",
+        "agents/logs/Daniel_qianfan_chinese_0.log",
+        0
+    ],
+    "一种快餐食品"
+]

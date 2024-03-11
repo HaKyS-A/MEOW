@@ -1,0 +1,20 @@
+[
+    {
+        "players": [
+            "Alice",
+            "Bob",
+            "Carol",
+            "Daniel"
+        ],
+        "words": [
+            "汉堡包",
+            "比萨饼",
+            "比萨饼",
+            "比萨饼"
+        ],
+        "hints": "一种食品",
+        "agent": 0,
+        "logFile": "judge_0.log",
+        "resultFile": "uttr_0.json"
+    }
+]
