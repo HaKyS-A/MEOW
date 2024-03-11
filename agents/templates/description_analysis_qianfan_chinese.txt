@@ -1,0 +1,4 @@
+在这一轮，第{target_ordinal_number:d}位玩家{target:s}的对收到的词语的描述是“{target_description:s}”。根据你的常识，你认为用“{target_description:s}”来描述“{my_word:s}”合适吗?为什么?
+-----*****-----
+根据当前信息，即使你无法给出确定结果，分析{target:s}收到的词语与你收到的词语相同的可能性有多高?
+-----*****-----

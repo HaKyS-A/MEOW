@@ -1,0 +1,147 @@
+# Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio, WebStorm and Rider
+# Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# Generated files
+.idea/**/contentModel.xml
+
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# Gradle and Maven with auto-import
+# When using Gradle or Maven with auto-import, you should exclude module files,
+# since they will be recreated, and may cause churn.  Uncomment if using
+# auto-import.
+# .idea/artifacts
+# .idea/compiler.xml
+# .idea/jarRepositories.xml
+# .idea/modules.xml
+# .idea/*.iml
+# .idea/modules
+# *.iml
+# *.ipr
+
+# CMake
+cmake-build-*/
+
+# Mongo Explorer plugin
+.idea/**/mongoSettings.xml
+
+# File-based project format
+*.iws
+
+# IntelliJ
+out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Cursive Clojure plugin
+.idea/replstate.xml
+
+# Crashlytics plugin (for Android Studio and IntelliJ)
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
+
+# Editor-based Rest Client
+.idea/httpRequests
+
+# Android studio 3.1+ serialized cache file
+.idea/caches/build_file_checksums.ser
+agents/__pycache__/JsonToDataset_once.cpython-310.pyc
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/api_qianfan_SK.txt
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/api_qianfan_SK.txt
+agents/CreatePlayerjson.py
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/api_qianfan_AK_改个名以防止误跑.txt
+agents/DataFormatter.py
+agents/DataFormatter.py
+agents/JsonToDataset_try2.py
+agents/JsonToDataset_try2.py
+*.log
+*.xlsx
+*.json
+agents/logs/Alice_test_chatglm.log
+agents/logs/Bob_test_chatglm.log
+agents/logs/Alice_test_chatglm.log
+agents/logs/Bob_test_chatglm.log
+agents/logs/Carol_test_chatglm.log
+agents/logs/uttr.json
+agents/model-Error.py
+agents/model_try1.py
+agents/JsonToDataset_try2.py
+agents/logs/Alice_test_chatglm.log
+agents/__pycache__/JsonToDataset.cpython-310.pyc
+agents/__pycache__/Train.cpython-310.pyc
+agents/JsonToDataset_once.py
+agents/JsonToDataset_try2.py
+agents/logs/players.json
+agents/logs/tendency.json
+agents/logs/vote.json
+*.pth
+agents/model_try2.py
+*.pyc
+agents/logs/*
+agents/mmgrn_full_v2.py
+agents/删掉了我的torch下的一些文件/c10_cuda.dll
+agents/删掉了我的torch下的一些文件/nvfuser_codegen.dll
+agents/删掉了我的torch下的一些文件/torch_cuda.dll
+*.zip
+agents/logs/vaild_dataset_rename.rar
+agents/logs/valid_dataset.py
+*.png
+agents/results/record-OneDataset.xlsx
+agents/results/~$record-4Fold-OneDataset.xlsx
+agents/results/record-4Fold-OneDataset.xlsx
+agents/results/~$record-OneDataset.xlsx
+agents/test_return.py
+agents/__pycache__/JsonToDataset_Two.cpython-310.pyc
+agents/config.json
+agents/templates/description_analysis.txt
+agents/templates/description_analysis_chatglm.txt
+agents/templates/game_start.txt
+agents/templates/game_start_chatglm.txt
+agents/templates/identity_guess.txt
+agents/templates/identity_guess_chatglm.txt
+agents/templates/statement_and_discussion.txt
+agents/templates/statement_and_discussion_chatglm.txt
+agents/templates/vote.txt
+agents/templates/vote_chatglm.txt
+agents/templates/word_describe.txt
+agents/templates/word_describe_chatglm.txt
+agents/record_config.txt
+agents/record.txt
+agents/config_record.txt
+agents/config_OneDataset.json
+config-OneRound.json
+config-TwoRound.json
+dataset/OneRound-6/Test_set/1Avalid.pkl
+model/excel/record-OneRound-full.xlsx
+model/excel/record-TwoRound-fully.xlsx
+model/excel/record-TwoRound.xlsx
