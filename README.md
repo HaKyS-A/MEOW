@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is the experiment code of our work "Large Language Models Need Consultants for Reasoning: Becoming an Expert in a Complex Human System Through Behavior Simulation" 
+This project is the experiment code of our work "[Large Language Models Need Consultants for Reasoning: Becoming an Expert in a Complex Human System Through Behavior Simulation" ](https://arxiv.org/abs/2403.18230)
 
 **Abstract**:
 Large language models (LLMs), in conjunction with various reasoning reinforcement methodologies, have demonstrated remarkable capabilities comparable to humans in fields such as mathematics, law, coding, common sense, and world knowledge. In this paper, we delve into the reasoning abilities of LLMs within complex human systems. We propose a novel reasoning framework, termed "Mosaic Expert Observation Wall" (MEOW) exploiting generative-agents-based simulation technique. In the MEOW framework, simulated data are utilized to train an expert model concentrating "experience" about a specific task in each independent time of simulation. It is the accumulated "experience" through the simulation that makes for an expert on a task in a complex human system. We conduct the experiments within a communication game that mirrors real-world security scenarios. The results indicate that our proposed methodology can cooperate with existing methodologies to enhance the reasoning abilities of LLMs in complex human systems.
@@ -71,7 +71,7 @@ Other rules: (a) In each player's utterances at any time it is not allowed to us
     - see `model-help.md`
 4. Write `judgeConfig.json`
    - For example,
-```json
+```python
 [
     {
         "players": [
@@ -110,3 +110,12 @@ Other rules: (a) In each player's utterances at any time it is not allowed to us
 
 
 #### Citation
+
+```
+@article{wang2024large,
+  title={Large Language Models Need Consultants for Reasoning: Becoming an Expert in a Complex Human System Through Behavior Simulation},
+  author={Wang, Chuwen and Zeng, Shirong and Wang, Cheng},
+  journal={arXiv preprint arXiv:2403.18230},
+  year={2024}
+}
+```
